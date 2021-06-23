@@ -5,3 +5,6 @@ Techo
 Paredes
 Chimenea (opcional)
 garage (opcional)
+Cocina
+dormitorios
+baños
