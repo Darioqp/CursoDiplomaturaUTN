@@ -1,0 +1,7 @@
+Elementos de una casa:
+Ventanas
+Puertas
+Techo
+Paredes
+Chimenea (opcional)
+garage (opcional)
