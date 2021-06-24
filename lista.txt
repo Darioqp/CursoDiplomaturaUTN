@@ -8,3 +8,4 @@ garage (opcional)
 Cocina
 dormitorios
 baños
+living (opcional)
